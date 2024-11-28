@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on hackathons
 - 📫 How to reach me via email
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a beginner here
 
 <!---
 Namah/Namah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
